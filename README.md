@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on kubernetes and blockchain
 - 🌱 I’m currently learning GitOps
 - 👯 I’m looking to collaborate on decentralized applications
-- 🤔 I’m looking for help with homeopathy
+- 🤔 I’m looking for help with homeops 
 - 💬 Ask me about Ethics
 - 📫 How to reach me: ebcrypto@k8sdashboard.com
 - 😄 Pronouns: He/Him
