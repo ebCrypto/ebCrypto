@@ -15,6 +15,6 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebCrypto&count_private=true&hide=java&theme=radical)](https://github.com/ebCrypto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebCrypto&count_private=true&hide=java&show_icons=true&theme=dark)](https://github.com/ebCrypto/github-readme-stats)
 
-[![EbCrypto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebCrypto&theme=radical)](https://github.com/ebCrypto/github-readme-stats)
+[![EbCrypto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebCrypto&count_private=true&hide=java&show_icons=true&theme=dark)](https://github.com/ebCrypto/github-readme-stats)
