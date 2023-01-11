@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on kubernetes and blockchain
-- 🌱 I’m currently learning GitOps
+- 🔭 I’m currently working on kubernetes, proxmox and observability
+- 🌱 I’m currently learning Ceph
 - 👯 I’m looking to collaborate on decentralized applications
 - 🤔 I’m looking for help with homeops 
 - 💬 Ask me about Ethics
