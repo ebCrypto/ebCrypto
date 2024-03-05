@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ebCrypto</h1>
 <h3 align="center">CIO, coder at work and at home</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebcrypto&label=Profile%20views&color=0e75b6&style=flat" alt="ebcrypto" /> </p>
+<img src="https://komarev.com/ghpvc/?username=ebcrypto&label=Profile%20views&color=0e75b6&style=flat" alt="ebcrypto" /> 
 
 - 🔭 I’m currently working on **personal AI project**
 
@@ -10,7 +10,7 @@
  
 
 
-<h3 align="left">My Tech Stack:</h3>
+### My Tech Stack
 Always evolving, and interested to find out what is best!
 
 |TASK|TECH|
