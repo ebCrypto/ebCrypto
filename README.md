@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ebCrypto</h1>
-<h3 align="center">CIO, coder at work and at home</h3>
+<h3 align="center">Coder at work and at home</h3>
 
 <img src="https://komarev.com/ghpvc/?username=ebcrypto&label=Profile%20views&color=0e75b6&style=flat" alt="ebcrypto" /> 
 
