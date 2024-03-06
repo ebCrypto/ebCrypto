@@ -3,9 +3,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=ebcrypto&label=Profile%20views&color=0e75b6&style=flat" alt="ebcrypto" /> 
 
-- 🔭 I’m currently working on **personal AI project**
+- 🔭 I’m currently working on personal AI projects
 
-- 📫 How to reach me **e@k8sdashboard.com**
+- 📫 How to reach me e@k8sdashboard.com
 
  
 
