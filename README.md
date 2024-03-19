@@ -11,7 +11,7 @@
 
 
 ### My Tech Stack
-Always evolving, and interested to find out what is best! Feel free to ask about TechA vs TechB!!
+Always evolving, and interested to find out what is best! Let's talk about TechA vs TechB!!
 
 | |TECH|
 |---|---|
