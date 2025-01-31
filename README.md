@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on personal AI projects
 
-- 📫 e@k8sdashboard.com
-
+- 📫 e@mykwhnow.com
  
 
 
